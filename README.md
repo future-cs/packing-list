@@ -1,4 +1,4 @@
-# Packing list
+# Far Away - Packing List
 
 An packing list with some functionalities such as sort, clear and delete.
 
